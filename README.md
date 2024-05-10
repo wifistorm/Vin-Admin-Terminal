@@ -1,7 +1,7 @@
 This Project Was Going To Be For My Personal Use But I Decided To Share It So Here It Is
 You Can Either Look Like Some Hack Or Use It To Make Life Easier
 
-THe Commands For The Regular Terminal Are
+The Commands For The Regular Terminal Are
 
 
 repair system | Does The Classic DISM+SFC Scan Automatically
@@ -23,4 +23,4 @@ bomb router | Attempts To Overload Your Router
 clean rubbish | Cleans Up Temp Folders
 
 
-Enjoy!
+Using My Personalized Terminal Is Not Recommended
